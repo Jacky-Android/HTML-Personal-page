@@ -1,5 +1,5 @@
 # 个人网页导航实现
-
+体验地址：📫[地址]📫(http://218.244.150.75/)
 ```
 pip install flask
 ```
@@ -192,4 +192,4 @@ pip install flask
 ```
 ## 用flask封装后
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210421221438439.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzOTk3Nzg2,size_16,color_FFFFFF,t_70)
-体验地址：📫[地址]📫(http://218.244.150.75/)
+
